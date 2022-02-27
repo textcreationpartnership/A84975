@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation as well of the blovving up of the Ann frigat as also of the examination, tryal, and condemnation of John Adams, the gunner thereunto belonging as the occasion of that accident by his default. For which he was on the 24th. of this instant December, sentenced by a councel of war to be hang'd.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84975</idno>
+            <idno type="STC">Wing F2313</idno>
+            <idno type="STC">ESTC R201992</idno>
+            <idno type="EEBO-CITATION">43663294</idno>
+            <idno type="OCLC">ocm 43663294</idno>
+            <idno type="VID">172050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172050)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2610:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation as well of the blovving up of the Ann frigat as also of the examination, tryal, and condemnation of John Adams, the gunner thereunto belonging as the occasion of that accident by his default. For which he was on the 24th. of this instant December, sentenced by a councel of war to be hang'd.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Purslow,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication supplied by Wing.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>"With Allowance."</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Adams, John, d. 1673 or 4.</term>
+               <term>Ann (Ship) --  Early works to 1800.</term>
+               <term>Shipwrecks --  England --  Sheppey, Isle of.</term>
+               <term>Trials (Naval offenses) --  England --  London.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172050:1"/>
+            <pb facs="tcp:172050:1" rendition="simple:additions"/>
+            <p>A Full and True RELATION As well of the Blovving Up of the Ann FRIGAT As alſo of the Examination, Tryal, and Condemnation of <hi>John Adams</hi> THE GUNNER Thereunto Belonging: As the Occaſion of that Accident by His DEFAULT.</p>
+            <p>For which he was on the 24<hi rend="sup">th</hi> of this inſtant <hi>DECEMBER,</hi> Sentenced BY A Councel of War To be Hang'd.</p>
+            <p>With Allowance.</p>
+            <p>Printed by <hi>A. Purſlow</hi> in the Year, 1673.</p>
+            <pb facs="tcp:172050:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:172050:2"/>
+            <head>A Full RELATION Of the Blowing Up of the ANN FRIGAT; And of the <hi>Tryal</hi> and <hi>Con<g ref="char:EOLhyphen"/>demnation</hi> of the GVNNER, &amp;c.</head>
+            <p>THe <hi>Ann,</hi> one of his Majeſties Third-Rate Fri<g ref="char:EOLhyphen"/>gats carrying Sixty Guns, having been out at Sea a Cruſing, not unſuccesfully off the Coaſt of <hi>Holland,</hi> came the laſt Month into the Dock at <hi>Sherneſs</hi> to Waſh and Tallow, and provide other neceſſaries, having endured much bad weather, and ſome damage, being deſign'd after that Recruit to have kept out all this Winter: For this purpoſe her Guns and (as it is generally reported by the Ships Crew) all her Powder was taken out of her, and ſecured on ſhore, Being
+<pb n="4" facs="tcp:172050:3"/> there in ſhort time Refitted, ſhe was brought forth again, and when the dreadful Diſaſter we are going to relate befel her: <hi>viz</hi> On the Second Day of <hi>December,</hi> was Riding at Anchor neer <hi>Quinborough Swail,</hi> expecting that very After<g ref="char:EOLhyphen"/>noon, to have her Stores again brought Aboard. During this time many of the Seamen that had belong'd to her a conſiderable time, were allowed to go on ſhore, but the Preſt-men and other new comers were kept on Board; where that morning about Nine a Clock they were Muſter'd, and after Dinner all hands apply themſelves with Diligence to get their Ship Rigged, looking every hour for their Stores coming in, for which the Gunner was gone, and the Cap<g ref="char:EOLhyphen"/>tain and moſt of the Officers gone a ſhore, except Mr. <hi>Agres</hi> the Purſer, whoſe Wife was now unhapily come on board, with an intent only to viſit, but as it proved in the fatal Event, to dye with her Husband upon which little-thought of Errand ſeveral other women were alſo led thither by their own ill Deſtinies, amongſt whom ſome had brought their Children too, as if Fate had thought a Sacrifice of the ſtrength of Men, and beauty of Women not enough, without adding the Inocence of Babes to compleat the Tra<g ref="char:EOLhyphen"/>gedy.</p>
+            <p>Stop here good Reader! and think it no Digreſſion to conſider a little ſeriouſly what a bubble is Humane-Life! How ſilent are the approaches of Death? how unforeſeen the Trap-doors of the Grave? Man that in pride of Health will needs now and then bluſter as if he could pluck down Stars, or throw the world off from its poles, what is he ſtill but a little brittle Clay? kneaded at firſt with Tears, and then hardned by the Sun-ſhine of Proſperity, into a lump of vanity, which yet a Feavers Fire can ſcorch into duſt, a ſhower of Rhume waſh away into durt, or a blaſt, in a moment ſcatter into irrecoverable Atoms.</p>
+            <p>Here might you have ſeen almoſt two hundred Souls, thinking of nothing leſs than their impending Fate, and in<g ref="char:EOLhyphen"/>deed
+<pb n="5" facs="tcp:172050:3"/> in the eye of Humane Reaſon they were ſafe, being in Health, on board a good Ship, no Enemy neer, no Tempeſt, no Powder neither as they poor ſouls imagined, to hurt them: But alas! here they miſtake, and Death in a pri<g ref="char:EOLhyphen"/>vate corner lays his Ambuſcade; for about two a clock that Afternoon, as the Joyners (ſeveral being come from <hi>Sher<g ref="char:EOLhyphen"/>neſs)</hi> were buſie at their work neer the powder room, and all the reſt aboard imployed, ſome managing and preparing the Tackle, other walking on the Decks, ſome merry with their Friends, and others ſecurely ſnoaring out their laſt breath in their Hammocks, behold! in an inſtant, ſudden as a flaſh of Lightning, or the ſpringing of a Thought, comes a dreadful blaſt that blows up all before it, and rends not only this Ship, but a Fire-ſhip that lay neer her, to pieces, Heaven is eclipſed with an aſcending cloud of Sulpher, and the bodies of men, women, and children pro<g ref="char:EOLhyphen"/>miſcuouſly hurl'd with a furious impetuoſity a loft into the Air, ſome having their brains beaten out, with, or againſt the ſhattered pieces of the Maſts and Decks, others diſani<g ref="char:EOLhyphen"/>mated with the violence of the motion, or drowned at their fall. In brief, in the twinkling of an eye, there appear'd ſuch a Scene of Deſtruction, and ſpectacle of Horror as would puzle the ableſt Orator to expreſs it fully; nor in<g ref="char:EOLhyphen"/>deed do we delight to agravate that Affliction in the Read<g ref="char:EOLhyphen"/>ers breaſt which all good Natures out of a generous com<g ref="char:EOLhyphen"/>paſſion, will be ſufficiently ſencible of on ſuch deplorable occaſions: 'Tis too ſad a truth, that one hundred and thirty odd perſons of the Ships Crew, ſix Women, four or five Children, about eight Joyners, and four Cawkers then imployed there, were hereby without a moments warning or conſideration diſpatcht into another world, and only ſeventeen men, and one woman that were then Aboard ſa<g ref="char:EOLhyphen"/>ved, of whom the greateſt part were wounded or grievouſly hurt, but eſcaped through infinite mercy with their Lives, being quickly taken up by the charitable aſſiſtance of ſome Boats from Ships that lay neer.</p>
+            <pb n="6" facs="tcp:172050:4"/>
+            <p> To tell the manner how the Powder took fire, is more we conceive than can certainly be done by any, but it is thought ſome of the Workmen not imagining any Powder to be aboard at all, might be leſs careful then otherwiſe, and ſo contributed to their own deſtruction; For what ill end it lay there unhappily concealed may be gathered from the Sequel: For ſoon after the Confuſion of the Blow was over, the Officers coming together concluded to take in<g ref="char:EOLhyphen"/>to Cuſtody both the <hi>Gunner</hi> of the <hi>Ann,</hi> and of the Fire<g ref="char:EOLhyphen"/>ſhip that periſhed with her: But the <hi>Latter</hi> giving a very ſatisfactory account of his <hi>Innocence,</hi> was ſoon diſcharged of his Confinement: But the former could not ſo handſomly clear himſelf, and therefore was continued under a Guard, and after ſome time ſent up to the <hi>Marſhalſes,</hi> in Order to receiving his Tryal at a Councel of War.</p>
+            <p>Accordingly on <hi>Munday</hi> the 22. of this inſtant <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> a Councel of War was held on board one of his Maje<g ref="char:EOLhyphen"/>ſties Yatches, lying over-againſt <hi>Towerwharf,</hi> where a<g ref="char:EOLhyphen"/>mongſt other things this buſineſs was Examined, and the Priſoner charged with imbezelling his Majeſties Stores committed to his Charge: and that by Concealing this Powder (which he deſign'd to have diſpoſed of to his own advantage) he had been the Occaſion of deſtroying ſo ma<g ref="char:EOLhyphen"/>ny of his Majeſties brave Subjects, and of the loſs of the Ship; but deſiring to Examine ſome other Witneſſes for clearing the matter, they Ordered him to be brought a<g ref="char:EOLhyphen"/>gain on the <hi>Wedneſday</hi> following.</p>
+            <p>On which day the Judge Advocate and Councel of War ſiting in the place aforeſaid, the Priſoner was again brought aboard, and upon a full Examination it was proved by Two Witneſſes that he ordered them to lay in Sixteen Barrels of Powder in a private unuſual place, to be concealed, which he intended ſecretly to have got out and ſold; and this was the quantity of Powder which gave the Fatal Blow: Beſides; another gave Evidence that a
+<pb n="7" facs="tcp:172050:4"/> Hundred and Forty Barrels of Powder were delivered out of the Ship, whereas he had placed only One Hundred and Thirty Barrels to Account, ſo that it was evident he had ſlighly deſigned at leaſt the converting of no leſs then Twenty ſix Barrels of Powder to his own uſe, and was thereby the unhappy Cauſe (by Accident) of all this mi<g ref="char:EOLhyphen"/>ſerable diſaſter: whereupon the Councel finding him Guilty, the Honourable Judge Advocate proceeded to give Sentence againſt him, <hi>That for ſuch his Offence he ſhould be Hanged.</hi>
+            </p>
+            <p>This Thunderbolt leveld againſt his life, he received with a becoming ſubjection, yet with a Courage that might caſt bluſhes on the Gallantry of a dying <hi>Roman;</hi> and though all Spectators could not but Applaud the di<g ref="char:EOLhyphen"/>ſcreet proceedings and juſtice of the Councel of War, yet at the ſame time they no leſs heartily Commiſerated the Priſoners unhappy Fate; many that Abominated his Offence, haveing a love for the man, who was indeed a perſon before reputed honeſt, and of a quiet, induſtrious, obligeing Temper, quallities that much recommended him to the Affections of all the Common Seamen con<g ref="char:EOLhyphen"/>cerned with him: beſides, what added much to the Scale of Compaſſion, he had a diſconſolate Wife, and Four or Five ſmall Children to leave behind him: But we ſee how far that curſed deſire of Money prevails even upon the beſt Natures, ſo as to prompt them for the ſmalleſt advantage, to proſtitute their Honeſty, Honour, Con<g ref="char:EOLhyphen"/>ſcience and all, and venture on the moſt Nefarious Crimes, <hi>Fellonies, Burglaries;</hi> and other too common violations of Law, though Heinous and Inſufferable in themſelves, are yet but <hi>Private</hi> Injuries, and Damnifie only ſome parti<g ref="char:EOLhyphen"/>cular perſons, but Embeſeling or Purloyning the <hi>Stores</hi> or <hi>Munitions</hi> of War, eſpecially in ſuch a junct<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> (beſides the Horrid Ingratitude of abuſing his <hi>Majeſties</hi> Graci<g ref="char:EOLhyphen"/>ous Truſt) is a kind of <hi>Civil Sacriledge,</hi> and of a more
+<pb n="8" facs="tcp:172050:5"/> miſcheivous conſequence in Relation to the <hi>publique,</hi> than any thing elſe (almoſt) in the whole Catalogue of Villany; If there be yet <hi>Any</hi> (as for the Honour of our Country we moſt paſſionately wiſh ſhe may never be guilty of producing one of that viperous brood) who Traiterouſly prefer their own <hi>Private Lucre</hi> and <hi>Emolument</hi> before the Honour, Safety, and Advantage of their <hi>King</hi> and Country, who ſhall endeavour to miſdiſpoſe publique proviſions, or by mixing the Duſt of Sea-coals with their Powder render it more weak, and leſs effectual, to the unſpeakable abuſe of his Majeſty, and prejudice of his Service againſt his Enemies, or that uſe any ſuch or the like helliſh cheating devices. Oh! may they with Confuſion behold their errors timely diſcovered by the prudent vigilancy of our Superi<g ref="char:EOLhyphen"/>ors, and as they have lived without any true Honour, be proceeded againſt without mercy, and dye without Pitty.</p>
+         </div>
+         <trailer>FINIS<g ref="char:punc">▪</g>
+         </trailer>
+      </body>
+   </text>
+</TEI>
